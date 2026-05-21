@@ -1,5 +1,12 @@
 flask
 deepface
-opencv-python
-tensorflow
+tensorflow-cpu
 tf-keras
+opencv-python-headless
+gunicorn
+numpy
+pandas
+pillow
+retina-face
+gdown
+fire
